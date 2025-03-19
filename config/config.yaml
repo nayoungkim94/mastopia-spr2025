@@ -30,7 +30,7 @@ versions:
     high:
       model:
         name: "gpt-4-1106-preview"
-        temperature: 0.1
+        temperature: 0
     low:
       model:
         name: "gpt-3.5-turbo-1106"
