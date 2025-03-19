@@ -1,4 +1,4 @@
-# MASTOPIA High-Performance High-MAST
+# MASTOPIA Integrated Version for Collaboration with Jessica Lee
 https://mastopia-hphm.streamlit.app/
 
 ### How to run it on your own machine
